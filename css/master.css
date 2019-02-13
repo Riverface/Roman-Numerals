@@ -1,0 +1,30 @@
+.alert-info
+{
+border: 2px solid;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+width: 500px;
+text-align: center;
+border-color: teal;
+
+}
+
+
+.main
+{
+
+border: 2px solid;
+border-top: 0px;
+border-top-left-radius: 0px;
+border-top-right-radius: 0px;
+width:500px;
+border-color: teal;
+}
+.jumbotron
+{
+ padding-left: 50px;
+  border-bottom: 1px solid;
+  border-right: 1px solid;
+  border-bottom-right-radius: 50px;
+  width: 500px;
+}
